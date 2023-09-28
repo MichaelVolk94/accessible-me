@@ -20,6 +20,12 @@ h6 {
   padding: 0 1rem;
 }
 
+.skip-links {
+  position: static;
+  width: auto;
+  height: auto;
+}
+
 img {
   width: 100%;
 }
