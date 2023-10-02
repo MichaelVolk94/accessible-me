@@ -45,6 +45,7 @@ img {
   flex: 1;
   text-align: center;
   display: inline-block;
+  background-color:lightsalmon;
 }
 
 .main-nav ul li a {
