@@ -46,6 +46,7 @@ img {
   text-align: center;
   display: inline-block;
   background-color:lightsalmon;
+  border-style: solid;
 }
 
 .main-nav ul li a {
